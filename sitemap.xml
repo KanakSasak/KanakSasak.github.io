@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://kanaksasak.github.io/ghost-to-hugo/</loc>
+    <lastmod>2018-10-05T16:15:32+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kanaksasak.github.io/my-first-post/</loc>
+    <lastmod>2018-10-05T11:11:44+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kanaksasak.github.io/about/</loc>
+    <lastmod>2018-09-10T22:17:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kanaksasak.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kanaksasak.github.io/post/</loc>
+    <lastmod>2018-10-05T16:15:32+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kanaksasak.github.io/</loc>
+    <lastmod>2018-10-05T16:15:32+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kanaksasak.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rey&#39;s Blog</title>
+    <link>https://kanaksasak.github.io/</link>
+    <description>Recent content on Rey&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <copyright>All rights reserved - 2018</copyright>
+    <lastBuildDate>Fri, 05 Oct 2018 16:15:32 +0700</lastBuildDate>
+    
+	<atom:link href="https://kanaksasak.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ghost to Hugo</title>
+      <link>https://kanaksasak.github.io/ghost-to-hugo/</link>
+      <pubDate>Fri, 05 Oct 2018 16:15:32 +0700</pubDate>
+      
+      <guid>https://kanaksasak.github.io/ghost-to-hugo/</guid>
+      <description>Insert Lead paragraph here.
+New Cool Posts {{ range first 10 ( where .Site.RegularPages &amp;ldquo;Type&amp;rdquo; &amp;ldquo;cool&amp;rdquo; ) }} * {{ .Title }} {{ end }}</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://kanaksasak.github.io/my-first-post/</link>
+      <pubDate>Fri, 05 Oct 2018 11:11:44 +0700</pubDate>
+      
+      <guid>https://kanaksasak.github.io/my-first-post/</guid>
+      <description>Hello world This is my first post.!</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://kanaksasak.github.io/about/</link>
+      <pubDate>Mon, 10 Sep 2018 22:17:00 +0000</pubDate>
+      
+      <guid>https://kanaksasak.github.io/about/</guid>
+      <description>Programming is Art Assalamualaikum WR.WB, Hello.., my name is Lalu Raynaldi Pratama Putra just call me Rey I&amp;rsquo;m from Lombok,Indonesia and wellcome to my blog,this blog is manifestation of my contribution in large scale of opensource ecosystem. Furthermore involved in opensource ecosystem especially in Blockchain,Microservice and Android is my biggest dreams.
+I hope this blog can help you to get inspiration to build a great art in tech. Thanks for coming.</description>
+    </item>
+    
+  </channel>
+</rss>
